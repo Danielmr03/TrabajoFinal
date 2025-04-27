@@ -1,3 +1,3 @@
 # SMART PARKING
-![Uploading Parqueadero.png…]()
+# ![Uploading Parqueadero.png…]()
 
