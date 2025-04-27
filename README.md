@@ -1,2 +1,2 @@
 # SMART PARKING
-<img src="![Parqueadero]https://github.com/user-attachments/assets/865c9ddc-05d1-422a-a54a-5f7850a689a2">
+![Parqueadero](https://github.com/user-attachments/assets/26521202-6047-431a-971c-20aa9036d68b)
