@@ -21,9 +21,8 @@
 ## **HABILIDADES Y FORTALEZAS**
 
 * Daniel Martinez:
-    *
-    *
-    *
 * Tania Salazar:
+     * **HABILIDAD**: Agilidad Escribiendo, Analítica, Comunicación, Creatividad, Vocería.
+     * **FORTALEZAS**: Persistencia, Responsabilidad, Respeto, Gratitud, Autoconfianza, Independencia.
 * Juan David Hernandez: 
 
