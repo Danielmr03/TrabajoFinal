@@ -4,7 +4,7 @@
 
 # **PRESENTACION GENERAL**
 
-<p align="justify">**SmartParking** es un sistema de gestion de parqueader desarrollado para optimizar la entrada, salida y administracion de vehiculos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehiculos, control de tiempo de parqueo y generacion de reportes de uso. El objetivo principal es ofrecer una solucion sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
+<p align="justify"> **SmartParking** es un sistema de gestion de parqueader desarrollado para optimizar la entrada, salida y administracion de vehiculos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehiculos, control de tiempo de parqueo y generacion de reportes de uso. El objetivo principal es ofrecer una solucion sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
 
 # **EQUIPO DESARROLLADOR**
 
