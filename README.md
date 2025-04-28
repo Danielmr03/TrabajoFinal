@@ -11,7 +11,9 @@
 ## **INTEGRANTES**
 
 * Daniel Eduardo Martinez Romero.
+  
 * Tania Valentina Salazar Manco.
+  
 * Juan David Hernandez Medina.
 
 ## **PROGRAMA**
@@ -21,13 +23,17 @@
 ## **HABILIDADES Y FORTALEZAS**
 
 * Daniel Martinez:
+  
      * **Habilidad**: Comunicacion efectiva, Organizacion, Atencion al detalle, Trabajo en equipo.
-     * **Fortalezas**: Compromiso con la calidad, Proactividad, Perseverancia, Curiosidad intelectual 
+     * **Fortalezas**: Compromiso con la calidad, Proactividad, Perseverancia, Curiosidad intelectual.
   
 * Tania Salazar:
+  
      * **Habilidad**: Agilidad Escribiendo, Analítica, Comunicación, Creatividad, Vocería.
      * **Fortalezas**: Persistencia, Responsabilidad, Respeto, Gratitud, Autoconfianza, Independencia.
+       
 * Juan David Hernandez:
-     * **Habilidad**: creatividad, comunicación, pensamiento crítico,  capacidad de adaptación
-     * **Fortalezas**: 
+  
+     * **Habilidad**: Creatividad, Comunicación, Pensamiento crítico,  Capacidad de adaptación.
+     * **Fortalezas**: Pensamiento crítico, Innovación, Responsabilidad.
 
