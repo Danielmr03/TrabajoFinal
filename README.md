@@ -18,4 +18,12 @@
 
 * INGENIERÍA INDUSTRIAL - UNIVERSIDAD DE ANTIOQUIA.
 
-## **HABILIDADES Y FORTALEZAS 
+## **HABILIDADES Y FORTALEZAS**
+
+* Daniel Martinez:
+    *
+    *
+    *
+* Tania Salazar:
+* Juan David Hernandez: 
+
