@@ -36,4 +36,30 @@
   
      * **Habilidad**: Creatividad, Comunicación, Pensamiento crítico,  Capacidad de adaptación.
      * **Fortalezas**: Pensamiento crítico, Innovación, Responsabilidad.
+       
+## **RESPONSABILIDADES**
 
+* Daniel Martinez:
+  
+    * Documentacion general del proyecto (README.md, manual de usuario, informes).
+    * Supervision del cumlimiento de los requisitos tecnicos y de presentacion.
+    * Apoyo en las pruebas funcionales y control de calidad del sistema.
+    * Comunicacion y coordinacion de tareas entre los integrantes del equipo.
+      
+* Tania Salazar:
+  
+    * Diseño de la estructura de carpetas y organizacion de archivos en el repositorio GitHub.
+    * Creacion de diagramas de flujo y esquemas explicativos para el funcionamiento del sistema.
+    * Desarrolo de material grafico como logos e imagenes representativas.
+      
+* Juan David Hernandez:
+
+    * Desarrollo del codigo principal del sistema de parqueadero.
+    * Implementacion de funciones de registro de vehiculos, control de tiempo y generacion de reportes
+    * Realizacion de pruebas unitarias para validar el correcto funcionamiento del programa.
+
+## **Lider del equipo**
+
+* Daniel Eduardo Martinez Romero.
+
+  
