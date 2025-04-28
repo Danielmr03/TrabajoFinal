@@ -42,7 +42,7 @@
 * Daniel Martinez:
   
     * Documentacion general del proyecto (README.md, manual de usuario, informes).
-    * Supervision del cumolimiento de los requisitos tecnicos y de presentacion.
+    * Supervision del cumplimiento de los requisitos tecnicos y de presentacion.
     * Apoyo en las pruebas funcionales y control de calidad del sistema.
     * Comunicacion y coordinacion de tareas entre los integrantes del equipo.
       
