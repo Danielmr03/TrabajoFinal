@@ -4,7 +4,7 @@
 
 # **PRESENTACION GENERAL**
 
-#### **SmartParking** es un sistema de gestion de parqueader desarrollado para optimizar la entrada, salida y administracion de vehiculos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehiculos, control de tiempo de parqueo y generacion de reportes de uso. El objetivo principal es ofrecer una solucion sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
+**SmartParking** es un sistema de gestion de parqueader desarrollado para optimizar la entrada, salida y administracion de vehiculos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehiculos, control de tiempo de parqueo y generacion de reportes de uso. El objetivo principal es ofrecer una solucion sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
 
 # **EQUIPO DESARROLLADOR**
 
@@ -21,8 +21,12 @@
 ## **HABILIDADES Y FORTALEZAS**
 
 * Daniel Martinez:
+      * **Habilidad**: Comunicacion efectiva, Organizacion, Atencion al detalle, Trabajo en equipo.
+      * **Fortalezas**: Compromiso con la calidad, Proactividad, Perseverancia, Curiosidad intelectual.
 * Tania Salazar:
-     * **HABILIDAD**: Agilidad Escribiendo, Analítica, Comunicación, Creatividad, Vocería.
-     * **FORTALEZAS**: Persistencia, Responsabilidad, Respeto, Gratitud, Autoconfianza, Independencia.
-* Juan David Hernandez: 
+     * **Habilidad**: Agilidad Escribiendo, Analítica, Comunicación, Creatividad, Vocería.
+     * **Fortalezas**: Persistencia, Responsabilidad, Respeto, Gratitud, Autoconfianza, Independencia.
+* Juan David Hernandez:
+      * **Habilidad**: creatividad, comunicación, pensamiento crítico,  capacidad de adaptación
+      * **Fortalezas**: 
 
