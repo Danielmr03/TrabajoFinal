@@ -8,9 +8,14 @@
 
 # **EQUIPO DESARROLLADOR**
 
-## *INTEGRANTES*
+## **INTEGRANTES**
 
 * Daniel Eduardo Martinez Romero.
-*
+* Tania Valentina Salazar Manco.
 * Juan David Hernandez Medina.
 
+## **PROGRAMA**
+
+* INGENIERÍA INDUSTRIAL - UNIVERSIDAD DE ANTIOQUIA.
+
+## **HABILIDADES Y FORTALEZAS 
