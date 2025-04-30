@@ -2,9 +2,9 @@
 
 ![Parqueadero](https://github.com/user-attachments/assets/26521202-6047-431a-971c-20aa9036d68b)
 
-# **PRESENTACION GENERAL**
+# **PRESENTACIÓN GENERAL**
 
-<p align="justify"> SmartParking es un sistema de gestion de parqueader desarrollado para optimizar la entrada, salida y administracion de vehiculos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehiculos, control de tiempo de parqueo y generacion de reportes de uso. El objetivo principal es ofrecer una solucion sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
+<p align="justify"> SmartParking es un sistema de gestión de parqueadero desarrollado para optimizar la entrada, salida y administración de vehículos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehículos, control de tiempo de parqueo y generación de reportes de uso. El objetivo principal es ofrecer una solución sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
 
 # **EQUIPO DESARROLLADOR**
 
@@ -41,22 +41,22 @@
 
 * Daniel Martinez:
   
-    * Documentacion general del proyecto (README.md, manual de usuario, informes).
-    * Supervision del cumplimiento de los requisitos tecnicos y de presentacion.
+    * Documentación general del proyecto (README.md, manual de usuario, informes).
+    * Supervisión del cumplimiento de los requisitos ténicos y de presentación.
     * Apoyo en las pruebas funcionales y control de calidad del sistema.
-    * Comunicacion y coordinacion de tareas entre los integrantes del equipo.
+    * Comunicación y coordinación de tareas entre los integrantes del equipo.
       
 * Tania Salazar:
   
-    * Diseño de la estructura de carpetas y organizacion de archivos en el repositorio GitHub.
-    * Creacion de diagramas de flujo y esquemas explicativos para el funcionamiento del sistema.
-    * Desarrolo de material grafico como logos e imagenes representativas.
+    * Diseño de la estructura de carpetas y organización de archivos en el repositorio GitHub.
+    * Creación de diagramas de flujo y esquemas explicativos para el funcionamiento del sistema.
+    * Desarrollo de material gráfico como logos e imagenes representativas.
       
 * Juan David Hernandez:
 
-    * Desarrollo del codigo principal del sistema de parqueadero.
-    * Implementacion de funciones de registro de vehiculos, control de tiempo y generacion de reportes
-    * Realizacion de pruebas unitarias para validar el correcto funcionamiento del programa.
+    * Desarrollo del código principal del sistema de parqueadero.
+    * Implementacion de funciones de registro de vehículos, control de tiempo y generación de reportes
+    * Realización de pruebas unitarias para validar el correcto funcionamiento del programa.
 
 ## **Lider del equipo**
 
