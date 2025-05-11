@@ -4,7 +4,7 @@
 
 # **PRESENTACIÓN GENERAL**
 
-<p align="justify"> SmartParking es un sistema de gestión de parqueadero desarrollado para optimizar la entrada, salida y administración de vehículos de un espacio controlado. El proyecto simulara el funcionamiento de un parqueadero real, permitiendo el registro de vehículos, control de tiempo de parqueo y generación de reportes de uso. El objetivo principal es ofrecer una solución sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadreo ágil.
+<p align="justify"> SmartParking es un sistema de gestión de parqueadero desarrollado para optimizar la entrada, salida y administración de vehículos de un espacio controlado. El proyecto simulará el funcionamiento de un parqueadero real, permitiendo el registro de vehículos, control de tiempo de parqueo y generación de reportes de uso. El objetivo principal es ofrecer una solución sencilla y eficiente, ideal para pequeñas y medianas empresas que requieren un sistema de parqueadero ágil.
 
 # **EQUIPO DESARROLLADOR**
 
@@ -24,7 +24,7 @@
 
 * Daniel Martinez:
   
-     * **Habilidad**: Comunicacion efectiva, Organizacion, Atencion al detalle, Trabajo en equipo.
+     * **Habilidad**: Comunicación efectiva, Organización, Atención al detalle, Trabajo en equipo.
      * **Fortalezas**: Compromiso con la calidad, Proactividad, Perseverancia, Curiosidad intelectual.
   
 * Tania Salazar:
